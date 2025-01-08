@@ -37,7 +37,7 @@
         <p>
             <img align="center" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
             <img align="center" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
-            <img align="center" width="33px" src="https://ravendb.net/wp-content/uploads/2021/03/Group-8093.png"/>
+            <img align="center" width="28px" src="https://ravendb.net/wp-content/uploads/2021/03/Group-8093.png"/>
             <img align="center" width="38px" src="https://img.icons8.com/color/50/000000/mongodb.png"/>
             <img align="center" width="38px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png"/>
         </p>
@@ -45,9 +45,9 @@
     <p>
         Operative Systems
         <p>
-            <img align="center" width="38px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
-            <img align="center" width="38px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
-            <img align="center" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+            <img align="center" width="33px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
+            <img align="center" width="33px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
+            <img align="center" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
         </p>
     </p>
     <p>
