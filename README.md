@@ -73,8 +73,8 @@
 
 
 ## 🔍 Extra details
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haxgon&hide=issues&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxgon&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pableraas&hide=issues&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pableraas&layout=compact" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pableraas.pableraas" />
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
