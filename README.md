@@ -70,6 +70,7 @@
 
 <!--- [Linkedin](https://www.linkedin.com/in/smunozli)-->
 - [Email](mailto:pablomunozlillo@gmail.com?subject=[GitHub]%20New%20Contact)
+- [Linkedin](https://www.linkedin.com/in/pablomunozlillo/)
 
 
 ## 🔍 Extra details
