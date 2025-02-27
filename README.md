@@ -15,9 +15,9 @@
             <img align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/> 
             <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/> 
             <img align="center" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-            <img align="center" width="40px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png"/>
+            <img align="center" width="40px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png"/>
             <img align="center" width="30px" src="https://logodix.com/logo/1111652.png"/>   
-            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
+            <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
             <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/>
         </p>
     </p>
@@ -28,15 +28,15 @@
             <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png"/>
             <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/125px-Visual_Studio_Icon_2019.svg.png"/>
             <img align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-            <img align="center" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"/>
-            <img align="center" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
+            <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
+            <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"/>
             <img align="center" width="40px" src="https://img.utdstc.com/icon/29f/b8c/29fb8ca7d51ee52cd1b89848d36bc2e2dcade52591409f9c8115752383f07360:200"/>
         </p>
     </p>
     <p>
         Databases
         <p>
-            <img align="center" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
+            <img align="center" width="38px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png"/>
             <img align="center" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
             <img align="center" width="28px" src="https://ravendb.net/wp-content/uploads/2021/03/Group-8093.png"/>
             <img align="center" width="38px" src="https://img.icons8.com/color/50/000000/mongodb.png"/>
@@ -46,15 +46,15 @@
     <p>
         Operative Systems
         <p>
-            <img align="center" width="33px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
-            <img align="center" width="33px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
+            <img align="center" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/>
+            <img align="center" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"/>
             <img align="center" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
         </p>
     </p>
     <p>
         Tools
         <p>
-            <img align="center" width="38px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png"/>
+            <img align="center" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
             <img align="center" width="38px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
             <img align="center" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png"/>
             <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/>
