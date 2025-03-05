@@ -36,7 +36,7 @@
     <p>
         Databases
         <p>
-            <img align="center" width="38px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png"/>
+            <img align="center" width="38px" src="https://www.shareicon.net/data/512x512/2016/08/01/640321_development_512x512.png"/>
             <img align="center" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
             <img align="center" width="28px" src="https://ravendb.net/wp-content/uploads/2021/03/Group-8093.png"/>
             <img align="center" width="38px" src="https://img.icons8.com/color/50/000000/mongodb.png"/>
